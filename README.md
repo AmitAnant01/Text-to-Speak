@@ -36,4 +36,5 @@ This project is based on the GUI Tkinter which can change the text into voice mo
 ## 🙋‍♂️Author: Amit kumar
 
 <img src="https://github.com/AmitAnant01/Text-to-Speak/blob/main/new1.png" width="100%" />
-<img src="https://github.com/AmitAnant01/Text-to-Speak/blob/main/new2.png" width="100%" />
+
+
