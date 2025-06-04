@@ -25,14 +25,15 @@ By clicking clear buttom you can refresh the text box
 
 📦 Technologies Used
 
-Python 3
+-Python 3
 
-Tkinter – for GUI interface
+-Tkinter – for GUI interface
 
-pyttsx3 – This is for offline text-to-speech conversion
+-pyttsx3 – This is for offline text-to-speech conversion
 
-ttk – It Theme Tkinter widgets
+-ttk – It Theme Tkinter widgets
 
 🙋‍♂️Author: Amit kumar
 
 <img src="https://github.com/AmitAnant01/Text-to-Speak/blob/main/new1.png" width="100%" />
+<img src="https://github.com/AmitAnant01/Text-to-Speak/blob/main/new2.png" width="100%" />
