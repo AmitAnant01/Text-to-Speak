@@ -1,39 +1,39 @@
-🗣 Text-to-Speech Desktop Application using Tkinter & pyttsx3
+# 🗣 Text-to-Speech Desktop Application using Tkinter & pyttsx3
 
 This project is based on the GUI Tkinter which can change the text into voice mode.Its provide a clean and intutive interface where you give any text for the coverting into voice.Eventhough you can also select the voice based on your choice.This creativity enhancing my skills while learning of GUI framework and i also have gained about that how and where implement this framework.
 
-🚀 Features
+## 🚀 Features
 
-🎤 Convert Text to Speech
-Type or paste any text, It will be speak the text
+- 🎤 Convert Text to Speech
+- Type or paste any text, It will be speak the text
 
-🎙 Voice Selection
-You cas select the speaking type(male/female)
+- 🎙 Voice Selection
+- You cas select the speaking type(male/female)
 
-🕒 Adjustable Speech Speed
-Also you can modify its voice through the given buttoms
+- 🕒 Adjustable Speech Speed
+- Also you can modify its voice through the given buttoms
 
-🔊 Volume Control
-Set the speech volume easily from 0 (mute) to 1 (max).
+- 🔊 Volume Control
+ -Set the speech volume easily from 0 (mute) to 1 (max).
 
-🌓 Light & Dark Theme Support
-Change the background for the better user experience
+- 🌓 Light & Dark Theme Support
+- Change the background for the better user experience
 
-🧹 Clear Button
-By clicking clear buttom you can refresh the text box 
+- 🧹 Clear Button
+- By clicking clear buttom you can refresh the text box 
 
 
-📦 Technologies Used
+## 📦 Technologies Used
 
--Python 3
+- Python 3
 
--Tkinter – for GUI interface
+- Tkinter – for GUI interface
 
--pyttsx3 – This is for offline text-to-speech conversion
+- pyttsx3 – This is for offline text-to-speech conversion
 
--ttk – It Theme Tkinter widgets
+- ttk – It Theme Tkinter widgets
 
-🙋‍♂️Author: Amit kumar
+## 🙋‍♂️Author: Amit kumar
 
 <img src="https://github.com/AmitAnant01/Text-to-Speak/blob/main/new1.png" width="100%" />
 <img src="https://github.com/AmitAnant01/Text-to-Speak/blob/main/new2.png" width="100%" />
