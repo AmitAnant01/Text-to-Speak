@@ -35,3 +35,4 @@ ttk – It Theme Tkinter widgets
 
 🙋‍♂️Author: Amit kumar
 
+<img src="https://github.com/AmitAnant01/Python_GUI_Currency_Convertor/blob/main/new1.png" width="100%" />
